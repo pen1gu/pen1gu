@@ -27,4 +27,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></span>
 
 <span><img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=black">
-<img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=black&textColor=black"></span>
+<img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=black&color=black"></span>
