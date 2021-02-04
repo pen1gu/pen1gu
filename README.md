@@ -19,7 +19,7 @@
 <hr>
 ## Info
 
-### Programming Language
+#### Programming Language
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-4F0599?style=flat-square&logo=C Sharp&logoColor=white"/>
