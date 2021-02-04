@@ -1,5 +1,6 @@
 ## Hello! Welcome to my profile
-
+I like science and programming. My favorite things in science are the environment, and my favorite things in programming are software development and algorithm.
+I'm interested in the computer itself, so I'm also interested in hardware.
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
