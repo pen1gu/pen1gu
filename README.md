@@ -22,7 +22,7 @@
 <span><img src="https://img.shields.io/badge/Java-DA1F26?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/C Sharp-4F0599?style=flat-square&logo=C Sharp&logoColor=white"></span>
 
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<span>
 <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></span>
 
@@ -31,3 +31,12 @@
 
 <span><img src="https://img.shields.io/badge/C-A8b9CC?style=flat-square&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"></span>
+#### Hosting
+<span><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"></span>
+
+
+#### Databases
+
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
+</span>
