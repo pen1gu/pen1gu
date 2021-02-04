@@ -1,4 +1,8 @@
-### Hi Hi 👋
+### Hi! Welcome to my profile
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 
