@@ -1,4 +1,4 @@
-## Hello! Welcome to my profile
+## Hello! Welcome to my profile :blush
 I like science and programming. <br>
 My favorite things in science are the environment, and my favorite things in programming are software development and algorithm. <br>
 I'm also interested in hardware. <br>
