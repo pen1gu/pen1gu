@@ -6,7 +6,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
 <br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyun&layout=compact&theme=dracula)](https://github.com/hyunjunyun/)
+<br>
 <br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunjunyun)](https://github.com/hyunjunyun/)
 
