@@ -1,7 +1,7 @@
 ### Hi! Welcome to my profile
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun)](https://github.com/hyunjunyun/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyun&layout=compact)](https://github.com/hyunjunyun/)
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
