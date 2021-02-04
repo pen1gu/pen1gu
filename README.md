@@ -5,7 +5,7 @@ I'm also interested in hardware. <br>
 I'll live a life where I try every day. Thank you.
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
+[![hyunjunyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyun&layout=compact&theme=dracula)](https://github.com/hyunjunyun/)
 &nbsp;
