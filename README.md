@@ -15,9 +15,6 @@ I'll live a life where I try every day. Thank you.
 
 
 
-## Career
-
-
 ## Info
 
 #### Programming Languages
