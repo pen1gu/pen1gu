@@ -17,9 +17,11 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkths)](https://solved.ac/kkkths)
 
 <hr>
+### Career
 
+<hr>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=Java&logoColor=white"/></a>
 
 <!--
 **hyunjunyun/hyunjunyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
