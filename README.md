@@ -1,9 +1,9 @@
-### Hello! Welcome to my profile
+## Hello! Welcome to my profile
 <hr>
 
 <hr>
 
-### Stats
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
 <br>
 <br>
@@ -14,12 +14,12 @@
 
 <hr>
 
-### Career
+## Career
 
 <hr>
-### Info
+## Info
 
-## Programming Language
+### Programming Language
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-4F0599?style=flat-square&logo=C Sharp&logoColor=white"/>
