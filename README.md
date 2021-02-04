@@ -12,8 +12,6 @@ I'll live a life where I try every day. Thank you.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkths)](https://solved.ac/kkkths)
 
-[![hyunjunyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunjunyun)](https://github.com/hyunjunyun/)
-
 
 ## Info
 
