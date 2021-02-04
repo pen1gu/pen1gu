@@ -1,7 +1,5 @@
 ## Hello! Welcome to my profile
-<hr>
 
-<hr>
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
@@ -12,11 +10,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkths)](https://solved.ac/kkkths)
 
-<hr>
+
 
 ## Career
 
-<hr>
 
 ## Info
 
