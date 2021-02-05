@@ -5,7 +5,8 @@ I'm also interested in hardware. <br>
 I'll live a life where I try every day. Thank you.
 
 <span><a href="https://www.instagram.com/hj_m_66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-<a href="https://www.instagram.com/hj_m_66/"><img src="https://img.shields.io/badge/Naver Blog-00A98F?style=flat-square&logo=Naver Blog&logoColor=white"></a></span>
+<a href="https://blog.naver.com/kkkths"><img src="https://img.shields.io/badge/Naver Blog-00A98F?style=flat-square&logo=Naver Blog&logoColor=white"></a>
+<a href="https://hj1211qwer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-1A1F71?style=flat-square&logo=Tistory&logoColor=white"></a></span>
 
 ## Stats
 [![hyunjunyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
