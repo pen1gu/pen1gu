@@ -44,11 +44,11 @@ I'll live a life where I try every day. Thank you.
 
 #### Tools
 <span>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=black">
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=AndroidStudio&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white">
 </span>
 
 
