@@ -2,6 +2,7 @@
 I like science and programming. <br>
 My favorite things in science are the environment, and my favorite things in programming are software development and algorithm. <br>
 I'm also interested in hardware. <br>
+The ultimate goal is to create virtual reality.<br>
 I'll live a life where I try every day. Thank you.
 
 <span><a href="https://www.instagram.com/hj_m_66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
