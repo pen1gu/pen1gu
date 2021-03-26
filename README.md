@@ -35,7 +35,7 @@ I'll live a life where I try every day. Thank you.
 
 #### Hosting 
 <span><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"></span>
-d
+
 
 #### Databases
 
