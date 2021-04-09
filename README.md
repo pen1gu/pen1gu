@@ -14,8 +14,6 @@ I'll live a life where I try every day. Thank you.
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyun&layout=compact&theme=dracula)](https://github.com/hyunjunyun/)
 &nbsp;
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkths)](https://solved.ac/kkkths)
 
 
 ## Info
