@@ -33,7 +33,7 @@ I'll live a life where I try every day. Thank you.
 
 #### Framework
 
-<span><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=C&logoColor=white">
+<span><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
 
 #### Hosting 
 <span><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"></span>
