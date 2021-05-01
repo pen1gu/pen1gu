@@ -28,11 +28,12 @@ I'll live a life where I try every day. Thank you.
 <span>
 <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=black"></span>
 
-<span><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=C&logoColor=black">
+<span><img src="https://img.shields.io/badge/C-A8b9CC?style=flat-square&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"></span>
 
 #### Framework
-<span><img src="https://img.shields.io/badge/C-A8b9CC?style=flat-square&logo=C&logoColor=black">
+
+<span><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=C&logoColor=white">
 
 #### Hosting 
 <span><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"></span>
