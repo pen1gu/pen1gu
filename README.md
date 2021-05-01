@@ -21,7 +21,7 @@ I'll live a life where I try every day. Thank you.
 #### Programming Languages
 
 <span><img src="https://img.shields.io/badge/Java-DA1F26?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/C Sharp-4F0599?style=flat-square&logo=CSharp&logoColor=white"></span>
+<img src="https://img.shields.io/badge/C Sharp-4F0599?style=flat-square&logo=C Sharp&logoColor=white"></span>
 <span>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></span>
