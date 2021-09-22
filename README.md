@@ -25,7 +25,7 @@ I'll live a life where I try every day. Thank you.
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </span>
 <span>
-
+ 
 <img src="https://img.shields.io/badge/C Sharp-4F0599?style=flat-square&logo=CSharp&logoColor=white"></span>
 <span>
 <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=black"></span>
