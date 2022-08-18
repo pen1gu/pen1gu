@@ -16,7 +16,7 @@ I'll live a life where I try every day. Thank you.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyun&layout=compact&theme=dracula)](https://github.com/hyunjunyun/)
 &nbsp;
 
-[!https://aya.gg/ko/widget/검도부부장/solo?background=tier]
+[![stats]https://aya.gg/ko/widget/검도부부장/solo?background=tier]
 
 
 ## Info
