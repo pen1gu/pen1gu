@@ -16,6 +16,8 @@ I'll live a life where I try every day. Thank you.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyun&layout=compact&theme=dracula)](https://github.com/hyunjunyun/)
 &nbsp;
 
+<a href="https://opgc.me/#/users/hyunjunyun" target="_blank"><img src="https://api.opgc.me/githubs/users/hyunjunyun/tag/?theme=basic" /></a>
+
 ## Info
 
 #### Programming Languages
