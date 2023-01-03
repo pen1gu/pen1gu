@@ -11,7 +11,7 @@ I'll live a life where I try every day. Thank you.
 <span><a href="https://www.instagram.com/u_nyunjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
   
 ## Stats
-[![hyeonjoon yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonyoon&theme=dracula)](https://github.com/hyeonjoonyoon/)
+[![hyeon joon yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjoonyoon&theme=dracula)](https://github.com/hyeonjoonyoon/)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjoonyoon&layout=compact&theme=dracula)](https://github.com/hyeonjoonyoon/)
 &nbsp;
