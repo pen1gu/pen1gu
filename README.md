@@ -11,13 +11,10 @@ I'll live a life where I try every day. Thank you.
 <span><a href="https://www.instagram.com/u_nyunjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
   
 ## Stats
-[![hyunjunyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
+[![hyeonjoon yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjunyun&theme=dracula)](https://github.com/hyunjunyun/)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyun&layout=compact&theme=dracula)](https://github.com/hyunjunyun/)
 &nbsp;
-
-<a href="https://opgc.me/#/users/hyunjunyun" target="_blank"><img src="https://api.opgc.me/githubs/users/hyunjunyun/tag/?theme=basic" /></a>
-
 ## Info
 
 #### Programming Languages
