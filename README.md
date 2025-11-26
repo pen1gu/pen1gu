@@ -1,4 +1,4 @@
-## 하이 :blush: 
+## 프로필 :blush: 
 축구랑 풋살, 운동에 미쳐버린 개발자
 
 <span><a href="https://www.notion.so/3795fde7f5b44d809105826b95c6c674"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
