@@ -5,6 +5,10 @@
 <a href="https://blog.naver.com/kkkths"><img src="https://img.shields.io/badge/Naver Blog-00A98F?style=flat-square&"></a>
 <a href="https://hj1211qwer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-1A1F71?style=flat-square&logo=Tistory&logoColor=white"></a></span>
 <span><a href="https://www.instagram.com/yyeonjoon_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+
+## 최근 쓰는 블로그
+
+https://pen1gu.github.io/
   
 ## 리포 스텟
 [![hyeon joon yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pen1gu&theme=dracula)](https://github.com/pen1gu/)
