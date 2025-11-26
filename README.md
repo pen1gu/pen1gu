@@ -2,7 +2,7 @@
 <img src="./assets/arsenal.gif" width="400" height="400"/>
 </div>
 
-## 프로필 <img src="./assets/arsenal_logo.png" width="15"/>
+## 프로필 <img src="./assets/arsenal_logo.png" width="18"/>
 <strong>축구랑 풋살, 운동에 미쳐버린 개발자</strong>
 
 <span><a href="https://www.notion.so/3795fde7f5b44d809105826b95c6c674"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
