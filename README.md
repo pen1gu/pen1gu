@@ -2,8 +2,8 @@
 <img src="./assets/arsenal.gif" width="400" height="400"/>
 </div>
 
-## 프로필 <img src="./assets/arsenal_logo.png" width="20"/>
-축구랑 풋살, 운동에 미쳐버린 개발자
+## 프로필 <img src="./assets/arsenal_logo.png" width="15"/>
+<strong>축구랑 풋살, 운동에 미쳐버린 개발자</strong>
 
 <span><a href="https://www.notion.so/3795fde7f5b44d809105826b95c6c674"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 <a href="https://blog.naver.com/kkkths"><img src="https://img.shields.io/badge/Naver Blog-00A98F?style=flat-square&"></a>
