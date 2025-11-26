@@ -1,5 +1,6 @@
-<img src="./assets/arsenal.gif" width="300" height="300"/>
-
+<div align="center">
+<img src="./assets/arsenal.gif" width="400" height="400"/>
+</div>
 
 ## 프로필 :blush: 
 축구랑 풋살, 운동에 미쳐버린 개발자
