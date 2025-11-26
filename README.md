@@ -1,4 +1,5 @@
-![축구 GIF](./assets/arsenal.gif)
+<img src="./assets/arsenal.gif" width="300" height="300"/>
+
 
 ## 프로필 :blush: 
 축구랑 풋살, 운동에 미쳐버린 개발자
