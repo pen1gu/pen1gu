@@ -6,7 +6,7 @@
 <strong>축구랑 풋살, 운동에 미쳐버린 개발자</strong>
 
 
-### 링크크
+### 링크
 <span><a href="https://www.notion.so/3795fde7f5b44d809105826b95c6c674"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 <a href="https://blog.naver.com/kkkths"><img src="https://img.shields.io/badge/Naver Blog-00A98F?style=flat-square&"></a>
 <a href="https://hj1211qwer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-1A1F71?style=flat-square&logo=Tistory&logoColor=white"></a></span>
