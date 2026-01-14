@@ -3,7 +3,7 @@
 </div>
 
 # 프로필 <img src="./assets/arsenal_logo.png" width="21"/>
-<strong>축구랑 풋살, 운동에 미쳐버린 개발자</strong>
+<strong>축구랑 풋살 좋아함</strong>
 
 
 ### 링크
