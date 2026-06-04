@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/arsenal.gif" width="400" height="400"/>
+<img src="./assets/arsenal-arsenal-trophy.gif" width="400" height="400"/>
 </div>
 
 # 프로필 <img src="./assets/arsenal_logo.png" width="21"/>
